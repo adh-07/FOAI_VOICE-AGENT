@@ -1,4 +1,5 @@
-# 🎙️ Gemini Voice Agent Studio
+# 🎙️ 
+Voice Agent 
 
 A real-time, bidirectional voice agent application powered by the **Google Gemini Live API** and the official `google-genai` SDK.
 
